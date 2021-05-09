@@ -1,5 +1,5 @@
 
-# Python project for DSTI class 
+# Python project for DSTI class : News Category Classification by BERT
 
 DATA SOURCE: https://www.kaggle.com/rmisra/news-category-dataset
 
